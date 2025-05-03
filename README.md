@@ -1,6 +1,6 @@
 # Healthcare Backend API
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rushankj.Healthcare-backend)
+![](https://komarev.com/ghpvc/?username=Rushankj&repo=Healthcare-backend&color=green)
 
 
 A Django REST backend for healthcare management. Built this for a personal project to learn more about Django REST Framework.
