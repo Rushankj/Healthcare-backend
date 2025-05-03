@@ -128,7 +128,7 @@ You can use tools like Postman or curl to test these endpoints after getting you
 
 - If you get CORS errors, check the CORS settings in settings.py
 - Remember to include your JWT token in the Authorization header
-- This is a side project, so expect some rough edges
+- This is a assignment small  project, so expect some rough edges
 
 ## TODO (maybe someday)
 - [ ] Add appointment scheduling
