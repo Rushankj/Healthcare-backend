@@ -7,13 +7,28 @@ This is a healthcare backend system I built with Django and DRF, using JWT auth 
 
 ## Project Structure
 ```
-healthcare-backed/
-├── backend/             # Django stuff
-│   ├── manage.py
-│   ├── healthcare/      # Settings & configs
-│   ├── api/             # All the API goodness
-├── .gitignore
-└── README.md            # You are here! 👋
+healthcare-backend/
+├── env/                             # Your Python virtual environment
+├── healthcaree/                     # Main Django project folder (created via startproject)
+│   ├── manage.py                    # Django management script
+│   ├── .env                         # (Optional) Environment variables file
+│   ├── core/                        # Your Django app for healthcare logic
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── serializers.py
+│   │   ├── views.py
+│   │   ├── urls.py
+│   │   └── migrations/
+│   │       └── __init__.py
+│   └── healthcare/                 # Django settings module (same name as the project)
+│       ├── __init__.py
+│       ├── settings.py             # Project settings (configured with PostgreSQL, JWT, etc.)
+│       ├── urls.py
+│       └── wsgi.py
+├── requirements.txt                # (Optional) List of installed packages
+
 ```
 
 ## Features
