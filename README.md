@@ -1,5 +1,8 @@
 # Healthcare Backend API
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Rushankj.Healthcare-backend)
+
+
 A Django REST backend for healthcare management. Built this for a personal project to learn more about Django REST Framework.
 
 ## What's this?
