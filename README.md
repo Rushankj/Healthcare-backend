@@ -33,6 +33,7 @@ healthcare-backend/
 ├── requirements.txt                # (Optional) List of installed packages
 
 ```
+![image](https://github.com/user-attachments/assets/c10d4690-3399-4e0c-835e-5b5e1de1421b)
 
 ## Features
 - JWT Auth (login/logout) - nothing fancy but it works
