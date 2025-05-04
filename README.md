@@ -33,7 +33,7 @@ healthcare-backend/
 ├── requirements.txt                # (Optional) List of installed packages
 
 ```
-![image](https://github.com/user-attachments/assets/c10d4690-3399-4e0c-835e-5b5e1de1421b)
+
 
 ## Features
 - JWT Auth (login/logout) - nothing fancy but it works
@@ -98,6 +98,9 @@ You can use tools like Postman or curl to test these endpoints after getting you
 }
 ```
 
+![image](https://github.com/user-attachments/assets/f596c661-5efb-4a87-b5fd-4c3ab68cb910)
+
+
 ### Create a Patient
 ```json
 {
@@ -108,6 +111,9 @@ You can use tools like Postman or curl to test these endpoints after getting you
   "address": "123 Main Street"
 }
 ```
+
+![image](https://github.com/user-attachments/assets/2ecd5ce9-14fd-46f9-8a92-f5decb1a0077)
+
 
 ### Create a Doctor
 ```json
