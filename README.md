@@ -1,6 +1,6 @@
 # Healthcare Backend API
 
-![](https://komarev.com/ghpvc/?username=Rushankj&repo=Healthcare-backend&color=green)
+![Profile Views](https://img.shields.io/github/watchers/Rushankj/Healthcare-backend?style=social)
 
 
 A Django REST backend for healthcare management. Built this for a personal project to learn more about Django REST Framework.
@@ -112,9 +112,15 @@ You can use tools like Postman or curl to test these endpoints after getting you
 }
 ```
 
-![image](https://github.com/user-attachments/assets/2ecd5ce9-14fd-46f9-8a92-f5decb1a0077)
+![image](https://github.com/user-attachments/assets/5d18dce5-d3d5-44a2-974c-b12c5c106755)
 
 
+
+![image](https://github.com/user-attachments/assets/055da30c-923e-438d-a2ef-7f708223b20d)
+
+
+
+Now, Hear i will add some forntend screenshots , the frontend will saw now is the one i used to test api for real usage . 
 ### Create a Doctor
 ```json
 {
@@ -124,6 +130,9 @@ You can use tools like Postman or curl to test these endpoints after getting you
   "phone": "123-456-7890"
 }
 ```
+
+![image](https://github.com/user-attachments/assets/ed120b82-7c68-4edb-9dc1-6c25408e5595)
+
 
 ### Map Patient to Doctor
 ```json
