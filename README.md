@@ -1,6 +1,6 @@
 # Healthcare Backend API
 
-![Profile Views](https://img.shields.io/github/watchers/Rushankj/Healthcare-backend?style=social)
+![](https://visitor-badge.laobi.icu/badge?page_id=Rushankj.Healthcare-backend)
 
 
 A Django REST backend for healthcare management. Built this for a personal project to learn more about Django REST Framework.
